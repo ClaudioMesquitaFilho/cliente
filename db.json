@@ -1,0 +1,73 @@
+{
+"dadosCliente": [
+    {
+      "id": "0000003",
+       "dados": 
+         {
+           "nome": "Antonio Claudio Ferreira de Mesquita Filho",
+           "cpf": "08008080808",
+           "rg": "90284872394",
+           "filial": "Aquiraz",
+           "dataCadastro": "01/01/2019",
+           "cadastradoPor": "Josinaldo",
+           "status": "ativo",
+           "tipo": true,
+           "apelido": "Claudinho",
+           "telefone1": "085985036384",
+           "telefone2": "080877736372",
+           "telefone3": "090909090909",
+           "telefone4": "121212121212",
+           "email": "claudio@gmail.com",
+           "loginCentral": "1231",
+           "senhaCentral": "123",
+           "condominio": true,
+           "endereco": "rua dos animais",
+           "numero": "420",
+           "complemento": "ao lado",
+           "referencia": "igreja",
+           "obs": "nenhuma"
+         }
+       
+    },
+    {
+     "id": "0002",
+      "dados": 
+        {
+          "nome": "Antonio Mesquita Filho",
+          "cpf": "08008080808",
+          "rg": "90284872394",
+          "filial": "Aquiraz",
+          "dataCadastro": "01/01/2019",
+          "cadastradoPor": "Josinaldo",
+          "status": "ativo",
+          "tipo": false,
+          "apelido": "Claudinho",
+          "telefone1": "085985036384",
+          "telefone2": "080877736372",
+          "telefone3": "090909090909",
+          "telefone4": "121212121212",
+          "email": "claudio@gmail.com",
+          "loginCentral": "1231",
+          "senhaCentral": "123",
+          "condominio": false,
+          "endereco": "rua dos animais",
+          "numero": "420",
+          "complemento": "ao lado",
+          "referencia": "igreja",
+          "obs": "nenhuma"
+        }
+      
+   }
+  ],
+  "servicos" : 
+    {
+     "contrato": "0000003",
+             "plano": "Plano de 200MB",
+             "dataContrata": "23/12/2019",
+             "vencimento": 10,
+             "valor": "40,00",
+             "situacao": "Ativo",
+             "fidelidade": "Sim",
+             "virgencia": "23/12/2022"
+       }     
+}
