@@ -59,15 +59,41 @@
       
    }
   ],
-  "servicos" : 
+  "servicos" : [
     {
+     "id": 1,
      "contrato": "0000003",
-             "plano": "Plano de 200MB",
-             "dataContrata": "23/12/2019",
-             "vencimento": 10,
-             "valor": "40,00",
-             "situacao": "Ativo",
-             "fidelidade": "Sim",
-             "virgencia": "23/12/2022"
-       }     
+     "plano": "Plano de 200MB",
+     "dataContrata": "23/12/2019",
+     "vencimento": 10,
+     "valor": "40,00",
+     "situacao": "Ativo",
+     "fidelidade": "Sim",
+     "virgencia": "23/12/2022"
+    },
+    {
+      "id": 2,
+      "contrato": "0000003",
+      "plano": "Plano de 200MB",
+      "dataContrata": "23/12/2019",
+      "vencimento": 10,
+      "valor": "40,00",
+      "situacao": "Ativo",
+      "fidelidade": "Sim",
+      "virgencia": "23/12/2022"
+     }
+  ],
+  "servicoAtual" : [
+    {
+      "id": 1,
+      "contrato": "0000003",
+      "plano": "Plano de 200MB",
+      "dataContrata": "23/12/2019",
+      "vencimento": 10,
+      "valor": "40,00",
+      "situacao": "Ativo",
+      "fidelidade": "Sim",
+      "virgencia": "23/12/2022"
+     },
+  ]
 }
