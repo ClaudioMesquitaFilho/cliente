@@ -83,7 +83,7 @@
       "virgencia": "23/12/2022"
      }
   ],
-  "servicoAtual" : [
+  "servicoAtual" : 
     {
       "id": 1,
       "contrato": "0000003",
@@ -94,6 +94,6 @@
       "situacao": "Ativo",
       "fidelidade": "Sim",
       "virgencia": "23/12/2022"
-     },
-  ]
+     }
+  
 }
